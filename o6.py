@@ -1,0 +1,7 @@
+fo = open("new_file.txt",'a')
+fo.write("hello\\n")
+fo.write("hello1\n")
+fo.write("hello2\n")
+fo.write("hello3\n")
+fo.write("hello4\n")
+fo.close()
